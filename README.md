@@ -254,9 +254,9 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 Para dúvidas ou sugestões sobre este projeto:
 
-- **GitHub**: [@seu-usuario](https://github.com/seu-usuario)
-- **LinkedIn**: [Seu Perfil](https://linkedin.com/in/seu-perfil)
-- **Email**: seu.email@exemplo.com
+- **GitHub**: [@JorgeFilipi](https://github.com/JorgeFilipi)
+- **LinkedIn**: [jfdias](https://www.linkedin.com/in/jfdias/)
+- **Gmaiil**: jorgefelipe1986@gmail.com
 
 ---
 
